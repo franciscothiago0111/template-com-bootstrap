@@ -2,9 +2,6 @@
 💻<br>Portfólio com Bootstrap
 </h1>
 
-
-Clique **[aqui](https://getbootstrap.com/)** para ver a documentação do Bootstrap
-
 <h4 align="center">
 Portfólio criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.
 </h4>
@@ -17,6 +14,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - JavaScript;
 - Css3;
 - JQuery;
+
+Clique **[aqui](https://getbootstrap.com/)** para ver a documentação do Bootstrap
+Clique **[aqui](https://thiagosennin1.github.io/template-com-bootstrap/)** para ver a demo do site
+Clique **[aqui](https://www.linkedin.com/in/francisco-thiago-61b5b0132/)** para ver meu perfil no 
 
 
 
