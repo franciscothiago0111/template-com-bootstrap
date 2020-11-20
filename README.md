@@ -4,6 +4,7 @@
 
 <h4 align="center">
 WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.
+  <h6 OBS: as informações do site são meramente ilustrativas </h6>
 </h4>
 
 ## 🛠️ Tecnologias utilizadas
