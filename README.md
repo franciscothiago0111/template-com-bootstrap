@@ -7,7 +7,6 @@ WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Fr
 </h4>
 
 ## 🛠️ Tecnologias utilizadas
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Visual Studio Code (Editor de código);
 - Bootstrap;
 - HTML5;
