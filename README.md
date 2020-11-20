@@ -1,12 +1,12 @@
 <h1 align="center">
-💻<br>Portfólio com Bootstrap
+👨‍💻<br>Portfólio com Bootstrap
 </h1>
 
 <h4 align="center">
-Portfólio criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.
+WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.
 </h4>
 
-## 🛠 Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Visual Studio Code (Editor de código);
 - Bootstrap;
@@ -14,6 +14,11 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - JavaScript;
 - Css3;
 - JQuery;
+
+## ✨ características
+- 100% responsivo para qualquer formato de tela; 📱 🖥️ 📺
+- Efeitos de rolagem de imagens com parallax; 🖼️
+- Filtro com JavaScript; 🔍
 
 
 ## 🔗 Links
