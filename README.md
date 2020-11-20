@@ -30,7 +30,7 @@ Clique **[aqui](https://www.linkedin.com/in/francisco-thiago-61b5b0132/)** para 
 
 
 ##
-<h5 align="justify"> As informações do site são meramente ilustrativas </h5>
+<h5 align="justify"> As informações do site são meramente ilustrativas. </h5>
 
 ##
 <h3 align="center">
