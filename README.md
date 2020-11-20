@@ -3,10 +3,9 @@
 </h1>
 
 <h4 align="center">
-WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.  
-</h4>
+WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.  </h4>
 
-<h6 align="justify"> OBS: as informações do site são meramente ilustrativas </h6>
+
 
 ## 🛠️ Tecnologias utilizadas
 - Visual Studio Code (Editor de código);
@@ -30,6 +29,8 @@ Clique **[aqui](https://thiagosennin1.github.io/template-com-bootstrap/)** para 
 Clique **[aqui](https://www.linkedin.com/in/francisco-thiago-61b5b0132/)** para ver meu perfil no Linkedin.
 
 
+##
+<h6 align="justify"> As informações do site são meramente ilustrativas </h6>
 
 <h3 align="center">
 👽<br> Feito por <strong>Francisco Thiago</strong>
