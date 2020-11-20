@@ -16,7 +16,9 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - JQuery;
 
 Clique **[aqui](https://getbootstrap.com/)** para ver a documentação do Bootstrap
+#
 Clique **[aqui](https://thiagosennin1.github.io/template-com-bootstrap/)** para ver a demo do site
+#
 Clique **[aqui](https://www.linkedin.com/in/francisco-thiago-61b5b0132/)** para ver meu perfil no 
 
 
