@@ -15,7 +15,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Css3;
 - JQuery;
 
-## ✨ características
+## ✨ Características
 - 100% responsivo para qualquer formato de tela; 📱 🖥️ 📺
 - Efeitos de rolagem de imagens com parallax; 🖼️
 - Filtro com JavaScript; 🔍
