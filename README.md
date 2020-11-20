@@ -3,9 +3,10 @@
 </h1>
 
 <h4 align="center">
-WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.
-  <h6 OBS: as informações do site são meramente ilustrativas </h6>
+WebSite criado com o intuito de mostrar meus conhecimentos como desenvolvedor Front-End Jr.  
 </h4>
+
+<h6 align="justify"> OBS: as informações do site são meramente ilustrativas </h6>
 
 ## 🛠️ Tecnologias utilizadas
 - Visual Studio Code (Editor de código);
